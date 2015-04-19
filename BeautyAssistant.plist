@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://d.pcs.baidu.com/file/42d8e1e43aed6d4e0d08ecf7adb4d4fe?fid=788620998-250528-1040365237256281&time=1429449401&rt=sh&sign=FDTAERV-DCb740ccc5511e5e8fedcff06b081203-Ng6wlIV2LJuMsqJChMLqe9K1hWU%3D&expires=8h&prisign=GF6x2T2CVlRV01o7Pki028kp4XDNjnf6DEaBONVnjf612EcuJMuRsnKz+HfXG/Q2MvIBe085VS9aI615474BAfgqed3TucCofWlE5y7Vq0gL9lQi8Lp8+RoXS69TsChhAroHLuuZ1uozUG7s5CSdEFPpNTVGdp8LVKYdXU5De03Sn8YnIkQnGv7SEug66iIndt9qVvQXRBFwba0VAqyZNn5noRCkmzONf5KM/MQe0cDjSdYZPRzSFWgzSQKF2gzLQ09N4TWiqp4=&chkv=1&chkbd=0&chkpc=&r=248754368</string>
+					<string>http://192.168.1.105:8383/BeautyAssistant.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
