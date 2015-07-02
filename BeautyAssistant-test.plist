@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cn.mz.beautyassistant</string>
+				<string>cn.mezeron.ba.dev</string>
 				<key>bundle-version</key>
-				<string>0.0.1</string>
+				<string>1.1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>BeautyAssistant</string>
+				<string>BeautyAssistant-test</string>
 			</dict>
 		</dict>
 	</array>
